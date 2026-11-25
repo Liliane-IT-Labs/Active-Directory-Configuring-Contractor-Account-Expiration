@@ -1,6 +1,6 @@
 # **Active Directory | Configuring Contractor Account Expiration**
 
-## **1. Employee Complaint**
+## **1. Service Request | Impact: Low (one contractor account and access security) | Priority: P4 – Low**
 
 > "Our contractor's account must expire at the end of the year."
 
